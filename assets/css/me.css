@@ -3,7 +3,7 @@ body {
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
-    width: 400px;
+    width: 600px;
     height: 140px;
     font-size: x-large;
     color: #777777;
@@ -12,11 +12,9 @@ p{
 
 #info {
     float: right;
-}
-
-.container {
-    float: right;
-    
+    position: absolute;
+    top: 50px;
+    right: 300px;
 }
 
 #me {
@@ -40,9 +38,9 @@ p{
 
 }
 
-.container {
+
+.container{
     float: left;
-    
 }
 
 img {
@@ -54,4 +52,5 @@ img {
 #entire {
     border-top: solid;
     color: #dddddd;
+    
 }
