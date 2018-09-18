@@ -10,7 +10,7 @@ body {
 }
 
 h1 {
-    width: 960px;
+    width: 300px;
     border-right-style: inset;
     border-bottom-style: inset;
     border-left-style: inset;
@@ -63,5 +63,6 @@ h2 {
 
 header {
     background-color: #ffffff;
-    width: 960px;
+    width: 1057px;
+    margin-right: 960px;
 }
