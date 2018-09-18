@@ -6,6 +6,8 @@
     border-top-style: inset;
     background-color: #4aaaa5;
     color: aliceblue;
+    margin-left: 430px;
+    padding-left: 3%;
     
 }
 
@@ -13,12 +15,14 @@
     float: right;
     position: absolute;
     top: 50px;
-    right: 300px;
+    right: auto;
+    margin-left: 63%;
 }
 
 p {
     color: #4aaaa5;
     font-size: 50px;
+    padding-left: 5%;
 }
 
 .box {
@@ -28,8 +32,9 @@ p {
     margin-top: 50px;
     margin-right: 50px;
     margin-bottom: 50px;
-    margin-left: 50px;
+    margin-left: 425px;
     width: 960px;
+    height: 975px;
 }
 
 body {
@@ -41,22 +46,16 @@ body {
     background-image: url(https://images.pexels.com/photos/1020320/pexels-photo-1020320.jpeg?cs=srgb&dl=background-canvas-close-up-1020320.jpg&fm=jpg)
     }
 
-img {
-    padding-left: 20%;
-    padding-bottom: 10%;
-}
+
 
 .footer {
     position: fixed;
     left: 0px;
     bottom: 0px;
     width: 100%;
+    top: 100px;
     background-color: #66666600;
     text-align: center;
-}
-
-.container {
-    position: relative;
 }
 
 .h4 {
@@ -69,4 +68,22 @@ img {
     padding-left: 20px;
     padding-right: 20px;
     text-align: center;
+}
+
+.Relative {
+    position: relative;
+    left: 150px;
+    padding-right: 15%;
+    height: 200px;
+}
+.text-block {
+    position: absolute;
+    margin-top: 16%;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 30%;
+    text-align: center;
+}
+.container {
+    position: relative;
 }
