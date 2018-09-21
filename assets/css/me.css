@@ -89,3 +89,15 @@ h2 {
     font-size: 10px;
     
 }
+
+hr {
+    width: 100%;
+    color: #777;
+    
+}
+.break {
+    margin-top: 650px;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+}
