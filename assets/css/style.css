@@ -58,11 +58,25 @@ h2 {
     width: 100%;
     background-color: #666666;
     text-align: center;
-
+    height: 50px;
 }
 
 header {
     background-color: #ffffff;
     width: 1057px;
     margin-right: 960px;
+}
+
+hr {
+    width: 100%;
+    color: #777;
+    }
+
+.break {
+    margin-top: 0%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 886px;
+    padding-top: 0%;
 }
