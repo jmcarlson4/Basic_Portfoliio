@@ -34,7 +34,7 @@ p {
     margin-bottom: 50px;
     margin-left: 425px;
     width: 960px;
-    height: 975px;
+    height: 1000px;
 }
 
 body {
@@ -54,7 +54,7 @@ body {
     bottom: 0px;
     width: 100%;
     top: 100px;
-    background-color: #66666600;
+    background-color: #666666;
     text-align: center;
 }
 
@@ -76,14 +76,7 @@ body {
     padding-right: 15%;
     height: 200px;
 }
-.text-block {
-    position: absolute;
-    margin-top: 16%;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    width: 30%;
-    text-align: center;
-}
+
 .container {
     position: relative;
 }
@@ -100,4 +93,31 @@ body {
     height: 50px;
     font-size: 10px;
     
+}
+
+h4 {
+    width: 95%;
+    color: #777777;
+    
+}
+
+.trivia {
+    margin-right: 155px;
+    margin-top: 10%;
+    padding-top: 10%;
+
+}
+
+.hangman {
+    margin-top: 5%;
+    padding-top: 5%;
+    float: left;
+}
+
+.break {
+    margin-top: 118px;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    margin-bottom: 0%;
 }
