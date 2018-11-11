@@ -1,3 +1,8 @@
+#gameButton {
+    margin-left: 0%;
+    float: left;
+}
+
 #name {
     width: 300px;
     border-right-style: inset;
@@ -19,11 +24,11 @@
     margin-left: 63%;
 }
 
-p {
+/*p {
     color: #4aaaa5;
     font-size: 50px;
     padding-left: 5%;
-}
+} */
 
 .box {
     border: inset;
@@ -103,15 +108,16 @@ h4 {
 
 .trivia {
     margin-right: 155px;
-    margin-top: 10%;
+    margin-top: 25%;
     padding-top: 10%;
 
 }
 
 .hangman {
-    margin-top: 5%;
-    padding-top: 5%;
-    float: left;
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 25%;
+    float: right;
 }
 
 .break {
