@@ -13,4 +13,6 @@ $("#giphyButton").on('click', function(){
     window.location = "https://jmcarlson4.github.io/GIPHY-API/";
     console.log(window.location);
 });
+
+$("#")
 });
